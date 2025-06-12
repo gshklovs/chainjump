@@ -1,6 +1,7 @@
 # Environment setup
 
 conda create -n yaspathon python=3.9
+conda activate yaspathon
 pip install websocket
 
 # How to run
